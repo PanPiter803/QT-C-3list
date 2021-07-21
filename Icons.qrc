@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Assets/maximalizeicon.png</file>
+        <file>Assets/minimalizeicon.png</file>
+        <file>Assets/xicon.png</file>
+        <file>Assets/addicon.png</file>
+        <file>Assets/deleteicon.png</file>
+        <file>Assets/editicon.png</file>
+        <file>Assets/saveicon.png</file>
+        <file>Assets/openicon.png</file>
+    </qresource>
+</RCC>
